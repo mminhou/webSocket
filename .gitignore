@@ -1,0 +1,16 @@
+# 
+.vscode
+
+
+# dependencies
+/client/node_modules
+/server/node_modules
+
+
+# production
+/build
+
+
+# misc
+/client/package-lock.json
+/server/package-lock.json
